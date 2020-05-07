@@ -1,0 +1,17 @@
+move a repo to the local machine:
+git clone https://jenisha-amatya.github.io/portal-10.git
+
+to see changes in the repo 
+git status 
+
+state all changed files 
+git add . 
+
+makes all staged files part of branch:
+git commit -m "Adds files to branch"
+
+moved the changed files to the server:
+git push 
+
+
+
